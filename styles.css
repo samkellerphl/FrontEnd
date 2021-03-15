@@ -1,0 +1,82 @@
+body{
+    background: linear-gradient(180deg, rgba(63,94,251,1) 0%, rgba(255,0,52,1) 100%);
+    background-attachment: fixed;
+    margin: auto;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
+h1 { 
+    font-family: 'Corben', cursive;
+    text-align: center;
+    color: white;
+    font-size: 48px;
+}
+
+h2{
+    text-decoration: underline;
+}
+
+h3{
+    text-decoration: underline;
+    font-family: 'Corben', cursive;
+    text-align: center;
+    color: white;
+    font-size: 28px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 30px;
+    width: 800px;
+}
+
+p {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 15px;
+}
+
+
+.stats, .links {
+    vertical-align: top;
+    text-align: center;
+    background: red;
+    margin: 50px;
+    display: inline-table;
+    position: relative;
+    border-radius: 20px;
+    padding: 20px; 
+    width:320px;
+}
+
+
+#quotes{
+    width: 1000px;
+    margin: 20px auto;
+    background-color: blue;
+    border-radius: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+blockquote{
+    font-style: italic;
+}
+
+.container{
+width: 1000px;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+footer{
+    text-align: center;
+    
+}
